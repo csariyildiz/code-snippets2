@@ -1,0 +1,33 @@
+
+{% extends "layout.html" %}
+
+{% block title %}
+Spor Takımı
+{% endblock %}
+
+{% block body %}
+<div style="text-align:center" class="form-group">
+    <h1>Spor Yeni Kayıt</h1>
+    <form action="{{ url_for('register') }}" method="post">
+        İsim: <input  class="form-control"  name="name" type="text"/>
+        <br/>
+        <input name="captain" type="checkbox"/> Kaptan?
+        <br/>
+        <input name="comfort" type="radio" value="less"/>Daha Az Rahatım
+        <input name="comfort" type="radio" value="more"/>Daha Rahatım
+        <br/>
+        Yurt:
+        <select  class="form-control"  name="dorm">
+            <option value=""></option>
+            <option value="Apley Court">Apley Court</option>
+            <option value="Canaday">Canaday</option>
+            <option value="Grays">Grays</option>
+            <option value="Greenough">Greenough</option>
+        </select>
+        <br/>
+        <input  class="form-control" type="submit" value="Kayıt"/>
+    </form>
+</div>
+{% endblock %}
+
+

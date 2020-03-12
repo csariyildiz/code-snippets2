@@ -1,0 +1,21 @@
+{% extends "layout.html" %}
+
+{% block title %}
+Market
+{% endblock %}
+
+{% block body %}
+<h1>Market</h1>
+<form action="{{ url_for('store') }}" method="post">
+    <input name="elma" type="number" value="0"/> Elma
+    <br/>
+    <input name="armut" type="number" value="0"/> Armut
+    <br/>
+    <input name="muz" type="number" value="0"/> Muz
+    <br/>
+    <input type="submit" value="Sepete Ekle"/>
+</form>
+<p>
+ <a href="{{ url_for('cart') }}">Alışveriş sepetinize</a> bakın.
+</p>
+{% endblock %}
