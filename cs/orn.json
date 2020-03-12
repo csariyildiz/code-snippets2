@@ -1,0 +1,9 @@
+{
+    "ad":"Ahmet",
+    "yas":30,
+    "arabalar": [
+        { "ad":"Ford", "modeller":[ "Fiesta", "Focus", "Mustang" ] },
+        { "ad":"BMW", "modeller":[ "320", "X3", "X5" ] },
+        { "ad":"Fiat", "modeller":[ "500", "Panda" ] }
+    ]
+ }
