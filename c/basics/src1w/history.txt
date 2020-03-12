@@ -1,0 +1,1001 @@
+ 1085  npm start
+ 1086  mongo
+ 1087  cd /home/git/
+ 1088  ls
+ 1089  cd git
+ 1090  ls
+ 1091  cd Notes
+ 1092  ls
+ 1093  cd ..
+ 1094  git status
+ 1095  ls
+ 1096  cd Notes
+ 1097  cd Node/MongoDB\ Tutorial/
+ 1098  ls
+ 1099  cd samplesite/
+ 1100  ls
+ 1101  nano app.js
+ 1102  ls
+ 1103  cd routes/
+ 1104  ls
+ 1105  nano index.js
+ 1106  fg
+ 1107  cd ..
+ 1108  git add .
+ 1109  git status
+ 1110  git add --all
+ 1111  sudo git add .
+ 1112  git status
+ 1113  sudo git add -all
+ 1114  sudo git add --all
+ 1115  ls
+ 1116  cd Notes
+ 1117  git add .
+ 1118  git status
+ 1119  git commit
+ 1120  git commit -m "MongoDB NodeJS Sample Site"
+ 1121  git push origin master
+ 1122  sudo git push origin master
+ 1123  git status
+ 1124  ls
+ 1125  pwd
+ 1126  /home/pi/git/Notes
+ 1127  git status
+ 1128  git add .
+ 1129  git commit -m "MongoDB NodeJS Sample Site"
+ 1130  sudo git push origin master
+ 1131  mongo
+ 1132  ps
+ 1133  mongod -dbpath /home/pi/git/Notes/Node/MongoDB Tutorial/samplesite
+ 1134  mongod --dbpath /home/pi/git/Notes/Node/MongoDB Tutorial/samplesite
+ 1135  sudo mongod --dbpath /home/pi/git/Notes/Node/MongoDB Tutorial/samplesite
+ 1136  mongod --dbpath /home/pi/git/Notes/Node/MongoDB Tutorial/samplesite
+ 1137  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1138  ls
+ 1139  cd git
+ 1140  cd Notes/Node/MongoDB\ Tutorial/
+ 1141  sudo service mongodb stop
+ 1142  mongod --dbpath /home/pi/git/Notes/Node/
+ 1143  mongod --dbpath "/home/pi/git/Notes/Node/MongoDB Tutorial/samplesite"
+ 1144  mongod --shutdown
+ 1145  sudo mongod --shutdown
+ 1146  mongod --dbpath "/home/pi/git/Notes/Node/MongoDB Tutorial/samplesite"
+ 1147  ls
+ 1148  cd ..
+ 1149  ls
+ 1150  cd ..
+ 1151  ls
+ 1152  cd home
+ 1153  cd pi
+ 1154  ls
+ 1155  cd git
+ 1156  mkdir aiml_deney
+ 1157  git -r
+ 1158  ls
+ 1159  cd aiml_deney/
+ 1160  ls
+ 1161  git remote add origin git@github.com: >> note.txt
+ 1162  "git remote add origin git@github.com:benhoff/vexaiml" >> note.txt
+ 1163  ls
+ 1164  vim note.txt
+ 1165  ls
+ 1166  vim setup.py
+ 1167  nano setup.py 
+ 1168  rm setup.py 
+ 1169  nano setup.py 
+ 1170  virtualenv env
+ 1171  -bash: virtualenv: command not found
+ 1172  python -m virtualenv venv
+ 1173  pip show virtualenv
+ 1174  pip install virtualenv
+ 1175  sudo pip install virtualenv
+ 1176  virtualenv env
+ 1177  ls
+ 1178  nano note.txt 
+ 1179  ls
+ 1180  source env/bin/activate
+ 1181  pip install aiml
+ 1182  cd env
+ 1183  ls
+ 1184  cd lib
+ 1185  ls
+ 1186  cd python2.7/
+ 1187  ls
+ 1188  cd ..
+ 1189  cd python3.5
+ 1190  ls
+ 1191  cd python2.7/
+ 1192  ls
+ 1193  cd ..
+ 1194  pip -v
+ 1195  pip versiom
+ 1196  cd ..
+ 1197  ls
+ 1198  cd emv
+ 1199  cd env
+ 1200  ls
+ 1201  cd lib
+ 1202  ls
+ 1203  cd ..
+ 1204  ps
+ 1205  virtualenv quit
+ 1206  ls
+ 1207  cd env
+ 1208  ls
+ 1209  cd local/
+ 1210  ls
+ 1211  cd lib
+ 1212  ls
+ 1213  cd python2.7/
+ 1214  ls
+ 1215  cd ..
+ 1216  ls
+ 1217  cd bin
+ 1218  ls
+ 1219  cd ..
+ 1220  ls
+ 1221  rm aiml_deney/
+ 1222  deactivate 
+ 1223  ls
+ 1224  cd ai
+ 1225  pip 
+ 1226  pip list
+ 1227  pip -h
+ 1228  pip install aiml
+ 1229  pip -h
+ 1230  list
+ 1231  pip lis
+ 1232  pip list
+ 1233  pip install aiml
+ 1234  ls
+ 1235  cd aiml_deney/
+ 1236  ls
+ 1237  virtualenv env
+ 1238  ls
+ 1239  cd quit/
+ 1240  ls
+ 1241  cd bin
+ 1242  ls
+ 1243  cd ..
+ 1244  rm quit
+ 1245  rm -rf quit
+ 1246  ls
+ 1247  virtualenv env
+ 1248  source env/bin/activate
+ 1249  pip install PyAIML
+ 1250  pip intall --upgrade pip
+ 1251  pip install --upgrade pip
+ 1252  pip install aiml
+ 1253  cd env
+ 1254  cd ls
+ 1255  ls
+ 1256  cd lib
+ 1257  ls
+ 1258  cd python2.7/
+ 1259  ls
+ 1260  cd ..
+ 1261  cd python2.7/
+ 1262  ls
+ 1263  cd site-packages/
+ 1264  ls
+ 1265  cd aiml/
+ 1266  ls
+ 1267  cd alice
+ 1268  ls
+ 1269  vim drugs.aiml 
+ 1270  ls
+ 1271  mp0.aiml
+ 1272  ls
+ 1273  cat mp0.aiml
+ 1274  ls
+ 1275  cd ..
+ 1276  ls
+ 1277  cd ..
+ 1278  ls
+ 1279  cd ..
+ 1280  ls
+ 1281  emacs
+ 1282  vim main_.py
+ 1283  ls
+ 1284  cd ..
+ 1285  ls
+ 1286  rm aiml_deney/
+ 1287  deactivate
+ 1288  ls
+ 1289  python
+ 1290  python3
+ 1291  python
+ 1292  ls
+ 1293  nano
+ 1294  ls
+ 1295  rm -rf aiml_deney/
+ 1296  ls
+ 1297  cd Notes
+ 1298  ls
+ 1299  cd Node
+ 1300  ls
+ 1301  cd ..
+ 1302  ls
+ 1303  cd Python/
+ 1304  ls
+ 1305  nano hello.py
+ 1306  ls
+ 1307  ls -a
+ 1308  nano hello.py
+ 1309  python hello.py Çağrı
+ 1310  nano hello.py
+ 1311  ls
+ 1312  cd git
+ 1313  ls
+ 1314  cd Note
+ 1315  ls
+ 1316  cd Notes
+ 1317  ls
+ 1318  cd Python
+ 1319  ls
+ 1320  nano l.py
+ 1321  python l.py
+ 1322  pip install pythonds
+ 1323  sudo pip install pythonds
+ 1324  python l.py
+ 1325  ls
+ 1326  nano /etc/motd
+ 1327  sudo nano /etc/motd
+ 1328  ls
+ 1329  sudo nano /etc/motd
+ 1330  mongod
+ 1331  mongod --dbpath "/home/pi/git/Notes/Node/MongoDB Tutorial/samplesite"
+ 1332  mongod
+ 1333  mongod --dbpath "/home/pi/git/Notes/Node/MongoDB Tutorial/samplesite"
+ 1334  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1335  sudo service mongod stop
+ 1336  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1337  mongod
+ 1338  export LC_ALL=C
+ 1339  mongod 
+ 1340  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1341  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log --res
+ 1342  sudo service mongod stop
+ 1343  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log --rest
+ 1344  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1345  sudo service mongod stop
+ 1346  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1347  ls
+ 1348  sudo service mongod stop
+ 1349  mongod
+ 1350  ps ax | grep mongod
+ 1351  kill 7554
+ 1352  sudo kill 7554
+ 1353  ps ax | grep mongod
+ 1354  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1355  npm start
+ 1356  ls
+ 1357  cd git
+ 1358  ls
+ 1359  cd no
+ 1360  cd Notes/
+ 1361  ls
+ 1362  cd Node
+ 1363  ls
+ 1364  cd MongoDB\ Tutorial/
+ 1365  ls
+ 1366  cd samplesite/
+ 1367  ls
+ 1368  npm start
+ 1369  ls
+ 1370  cd git
+ 1371  ls
+ 1372  cd Notes
+ 1373  ls
+ 1374  cd Node
+ 1375  ls
+ 1376  cd MongoDB\ Tutorial/
+ 1377  ls
+ 1378  cd samplesite/
+ 1379  ls
+ 1380  cd ..
+ 1381  ls
+ 1382  npm start
+ 1383  ls
+ 1384  cd samplesite/
+ 1385  ls
+ 1386  npm start
+ 1387  ls
+ 1388  cd views/
+ 1389  ls
+ 1390  cd ..
+ 1391  npm start
+ 1392  ls
+ 1393  cd git
+ 1394  jeykll
+ 1395  ls
+ 1396  git status
+ 1397  cd Notes
+ 1398  git status
+ 1399  git add .
+ 1400  git status
+ 1401  git commit -m "Update"
+ 1402  git push origin master
+ 1403  ls
+ 1404  git clone https://github.com/acsariyildiz/acsariyildiz.github.io
+ 1405  ls
+ 1406  rm -rf acsariyildiz.github.io/
+ 1407  ls
+ 1408  git status
+ 1409  cd ..
+ 1410  ls
+ 1411  git clone https://github.com/acsariyildiz/acsariyildiz.github.io
+ 1412  ls
+ 1413  cd acsariyildiz.github.io/
+ 1414  ls
+ 1415  jekyll
+ 1416  df -h
+ 1417  https://github.com/acsariyildiz/acsariyildiz.github.io
+ 1418  planets-of-the-universecd ..
+ 1419  cd ..
+ 1420  ls
+ 1421  https://github.com/acsariyildiz/
+ 1422  git clone https://github.com/acsariyildiz/planets-of-the-universe
+ 1423  ls
+ 1424  cd planets-of-the-universe/
+ 1425  ls
+ 1426  rm . ../acsariyildiz.github.io/
+ 1427  mv . ../acsariyildiz.github.io/
+ 1428  ls
+ 1429  cd ..
+ 1430  ls
+ 1431  git status
+ 1432  ls
+ 1433  cd planets-of-the-universe
+ 1434  ls
+ 1435  git status
+ 1436  cd ..
+ 1437  ls
+ 1438  git acsariyildiz.github.io/
+ 1439  ls
+ 1440  cd planets-of-the-universe/
+ 1441  ls
+ 1442  cd ..
+ 1443  ls
+ 1444  cd acsariyildiz.github.io/
+ 1445  git clone https://github.com/acsariyildiz/planets-of-the-universe
+ 1446  ls
+ 1447  cd planets-of-the-universe/
+ 1448  ls
+ 1449  mv -A ..
+ 1450  mv . ..
+ 1451  mv * .[^.]* ..
+ 1452  şs
+ 1453  ls
+ 1454  cd ..
+ 1455  ls
+ 1456  mv acsariyildiz.github.io/planets-of-the-universe/ acsariyildiz.github.io/
+ 1457  mv acsariyildiz.github.io/planets-of-the-universe/* acsariyildiz.github.io/
+ 1458  ls
+ 1459  cd acsariyildiz.github.io/
+ 1460  ls
+ 1461  cd planets-of-the-universe/
+ 1462  ls
+ 1463  cd ..
+ 1464  rm -rf planets-of-the-universe/
+ 1465  ls
+ 1466  rm  news.html~
+ 1467  rm  notes2.html~
+ 1468  rm  notes.html~
+ 1469  ls
+ 1470  rm README.md 
+ 1471  git update
+ 1472  git pull origin master
+ 1473  ls
+ 1474  git pull origin gh-pages
+ 1475  git pull origin gh-page
+ 1476  rm *
+ 1477  ls
+ 1478  rm -rf *
+ 1479  ls
+ 1480  cd ..
+ 1481  rm acsariyildiz.github.io/
+ 1482  rm -rf acsariyildiz.github.io/
+ 1483  echo "# acsariyildiz.github.io" >> README.md
+ 1484  git init
+ 1485  git add README.md
+ 1486  git commit -m "first commit"
+ 1487  git remote add origin https://github.com/acsariyildiz/acsariyildiz.github.io.git
+ 1488  git push -u origin master
+ 1489  nano index.html
+ 1490  git add .
+ 1491  git commit -m "message"
+ 1492  git push origin gh-pages
+ 1493  git pull
+ 1494  ls
+ 1495  rm planets-of-the-universe/
+ 1496  ls
+ 1497  rm index.html 
+ 1498  rm README.md 
+ 1499  ls
+ 1500  grm
+ 1501  gem
+ 1502  mongod
+ 1503  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1504  ps ax | grep mongod
+ 1505  sudo service mongod stop
+ 1506  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1507  sudo service mongod stop
+ 1508  ls
+ 1509  cd git
+ 1510  ls
+ 1511  cd Notes
+ 1512  ls
+ 1513  cd Node/MongoDB\ Tutorial/
+ 1514  ls
+ 1515  cd samplesite
+ 1516  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1517  ERROR: child process failed, exited with error number 100
+ 1518  /var/lib/mongo
+ 1519  cd..
+ 1520  cd ..
+ 1521  cd /var/lib/mongo
+ 1522  cd ..
+ 1523  ls
+ 1524  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1525  ls
+ 1526  cd ..
+ 1527  ls
+ 1528  cd ..
+ 1529  ls
+ 1530  cd data
+ 1531  ls
+ 1532  cat mongod.log.2016-11-04T12-40-57-57
+ 1533  cat mongod.log.2016-11-04T12-40-57
+ 1534  service mongod start
+ 1535  sudo service mongod start
+ 1536  mongo
+ 1537  mongod
+ 1538  ps ax | grep mongod
+ 1539  kill 22567
+ 1540  sudo kill 22567
+ 1541  sudo nano /etc/mongodb.conf
+ 1542  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1543  mongod --fork --logpath /var/log/mongodb.log
+ 1544  sudo mongod --fork --logpath /var/log/mongodb.log
+ 1545  ps
+ 1546  ls
+ 1547  cd ..
+ 1548  ls
+ 1549  cd ..
+ 1550  ls
+ 1551  cd home
+ 1552  ls
+ 1553  cd pi
+ 1554  ls
+ 1555  cd git
+ 1556  ls
+ 1557  cd Notes
+ 1558  ls
+ 1559  cd Python/
+ 1560  cd ..
+ 1561  ls
+ 1562  cd Node/MongoDB\ Tutorial/
+ 1563  ls
+ 1564  cd samplesite/
+ 1565  ls
+ 1566  node app.js
+ 1567  cmatrix
+ 1568  lsof -i:27017
+ 1569  mongod
+ 1570  mongod --dbpath /data/db --repair
+ 1571  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1572  ps
+ 1573  npm start
+ 1574  cd git/Notes
+ 1575  ls
+ 1576  cd Node/MongoDB\ Tutorial/
+ 1577  ls
+ 1578  cd samplesite/
+ 1579  ls
+ 1580  cd views/
+ 1581  ls
+ 1582  ping 192.1.1.35
+ 1583  arp -l
+ 1584  arp -a
+ 1585  ping 192.168.1.33
+ 1586  ping 192.168.1.1
+ 1587  netstat -l
+ 1588  ruby -v
+ 1589  gem install jekyll
+ 1590  sudo gem install jekyll
+ 1591  quit
+ 1592  ssh -h
+ 1593  ssh -help
+ 1594  ssh quit
+ 1595  man ssh
+ 1596  q
+ 1597  ssh q
+ 1598  ls
+ 1599  cd git
+ 1600  ls
+ 1601  git clone https://github.com/elotroalex/ed.git
+ 1602  git clone https://github.com/acsariyildiz/acsariyildiz.github.io.git
+ 1603  ls
+ 1604  cd acsariyildiz.github.io/
+ 1605  jekyll serve
+ 1606  ls
+ 1607  jekyll serve
+ 1608  pi
+ 1609  quit
+ 1610  ls
+ 1611  cd git
+ 1612  ls
+ 1613  rm acsariyildiz.github.io/
+ 1614  rm -rf acsariyildiz.github.io/
+ 1615  ls
+ 1616  cd Notes/
+ 1617  ls
+ 1618  cd Node
+ 1619  ls
+ 1620  cd MongoDB\ Tutorial/
+ 1621  ls
+ 1622  cd samplesite/
+ 1623  ls
+ 1624  mongod
+ 1625  mongod stop
+ 1626  sudo service mongod stop
+ 1627  ps ax | grep mongod
+ 1628  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1629  mongo
+ 1630  mongod
+ 1631  ls
+ 1632  cd Data/
+ 1633  ls
+ 1634  cd ..
+ 1635  ls
+ 1636  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1637  npm start
+ 1638  ls
+ 1639  cd ..
+ 1640  ls
+ 1641  cd ..
+ 1642  ls
+ 1643  cd ..
+ 1644  ls
+ 1645  cd ..
+ 1646  ls
+ 1647  cd ..
+ 1648  ls
+ 1649  cd gir
+ 1650  ls
+ 1651  cd git
+ 1652  ls
+ 1653  cd Notes/
+ 1654  ls
+ 1655  cd Node
+ 1656  ls
+ 1657  cd MongoDB\ Tutorial/
+ 1658  ls
+ 1659  cd samplesite/
+ 1660  ls
+ 1661  ps ax | grep mongod
+ 1662  sudo service mongod stop
+ 1663  ps ax | grep mongod
+ 1664  ls
+ 1665  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1666  sudo mongod
+ 1667  mongod --dbpath /data/db --repair
+ 1668  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1669  mongod --dbpath /data/db --repair
+ 1670  mongo
+ 1671  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1672  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log --journal
+ 1673  ls
+ 1674  cd ..
+ 1675  ls
+ 1676  cd .
+ 1677  cd ..
+ 1678  ls
+ 1679  mv MongoDB\ Tutorial/ MongoDB_Tutorial
+ 1680  ls
+ 1681  cd MongoDB_Tutorial/
+ 1682  ls
+ 1683  cd samplesite/
+ 1684  ls
+ 1685  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1686  mongod
+ 1687  export LC_ALL=C
+ 1688  sudo mongod
+ 1689  sudo mongod --dbpath /data/db --fork --logpath /data/mongod.log
+ 1690  npm start
+ 1691  ls
+ 1692  cd views/
+ 1693  ls
+ 1694  cd ..
+ 1695  node server.js
+ 1696  sudo apt-get install upstart
+ 1697  ls
+ 1698  npm start
+ 1699  ls
+ 1700  cd views
+ 1701  ls
+ 1702  nano newstudent.jade 
+ 1703  nano layout.jade 
+ 1704  cd ..
+ 1705  npm start
+ 1706  nano layout.jade 
+ 1707  cd views/
+ 1708  ls
+ 1709  nano layout.jade
+ 1710  ls
+ 1711  cd ..
+ 1712  ls
+ 1713  ls
+ 1714  nano index.jade
+ 1715  nano newstudent.jade
+ 1716  nano layout.jade
+ 1717  nano index.jade
+ 1718  ls
+ 1719  cd ..
+ 1720  ls
+ 1721  nano package.json 
+ 1722  nano app.js
+ 1723  cd routes/
+ 1724  ls
+ 1725  nano users.js
+ 1726  nano index.js
+ 1727  npm start
+ 1728  nano layout.jade
+ 1729  ls
+ 1730  cd ..
+ 1731  ls
+ 1732  cd views/
+ 1733  ls
+ 1734  nano layout.jade
+ 1735  npm start
+ 1736  nano layout.jade
+ 1737  npm start
+ 1738  ls
+ 1739  nano index.jade 
+ 1740  nano layout.jade
+ 1741  npm start
+ 1742  nano layout.jade
+ 1743  npm start
+ 1744  nano layout.jade
+ 1745  npm start
+ 1746  nano layout.jade
+ 1747  npm start
+ 1748  nano layout.jade
+ 1749  npm start
+ 1750  hostname -I
+ 1751  ipconfig
+ 1752  iwconfig
+ 1753  netstat
+ 1754  npm start
+ 1755  ls
+ 1756  cd git
+ 1757  ls
+ 1758  cd Notes/
+ 1759  ls
+ 1760  cd Node
+ 1761  ls
+ 1762  cd MongoDB_Tutorial/
+ 1763  l
+ 1764  ls
+ 1765  cd samplesite/
+ 1766  npm start
+ 1767  ls
+ 1768  netstat
+ 1769  netstat -l
+ 1770  nmap -sT -O localhost
+ 1771  sudo nmap -sT -O localhost
+ 1772  netstat
+ 1773  iwconfig
+ 1774  netconfig
+ 1775  ifconfig
+ 1776  nslookup
+ 1777  gostname
+ 1778  hostname
+ 1779  ifconfig | perl -nle 's/dr:(\S+)/print $1/e'
+ 1780  hostname -i
+ 1781  netstat
+ 1782  netstatcurl -s checkip.dyndns.org | sed -e 's/.*Current IP Address: //' -e 's/<.*$//' 
+ 1783  curl -s checkip.dyndns.org | sed -e 's/.*Current IP Address: //' -e 's/<.*$//' 
+ 1784  wget http://ipinfo.io/ip -qO -
+ 1785  ls
+ 1786  sudo
+ 1787  sudo su
+ 1788  ls
+ 1789  cd Notes
+ 1790  ls
+ 1791  cd Node
+ 1792  ls
+ 1793  cd MongoDB_Tutorial/
+ 1794  ls
+ 1795  cd samplesite/
+ 1796  npm start
+ 1797  curl https://www.dataplicity.com/npkwtpb3.py | sudo python
+ 1798  ls
+ 1799  cd ..
+ 1800  ls
+ 1801  cd Notes
+ 1802  ls
+ 1803  cd Operating\ Systems/
+ 1804  ls
+ 1805  cd ..
+ 1806  cd Node/MongoDB_Tutorial/
+ 1807  ls
+ 1808  cd samplesite/
+ 1809  npm start
+ 1810  sudo apt-get install htop
+ 1811  sudo htop
+ 1812  ls
+ 1813  sudo pip install Flask
+ 1814  pip install --upgrade pip
+ 1815  sudo pip install --upgrade pip
+ 1816  sudo pip install Flask-API
+ 1817  sudo nano fl-app.py
+ 1818  export FLASK_APP=fl-app.py
+ 1819  sudo -E flask run --host=0.0.0.0 --port=80
+ 1820  lsof -i :8000
+ 1821  lsof -i :8080
+ 1822  lsof -i :80
+ 1823  sudo -E flask run --host=0.0.0.0 --port=80
+ 1824  lsof -i :80
+ 1825  ls of -i :80
+ 1826  lsof -i :80
+ 1827  ls
+ 1828  lsof
+ 1829  netstat
+ 1830  ps -fA | grep python
+ 1831  ps
+ 1832  ps -l
+ 1833  sudo lsof -i:8080
+ 1834  ls
+ 1835  sudo lsof -i:8080
+ 1836  ps
+ 1837  ps -l
+ 1838  ps -aux
+ 1839  ps -aux | grep 8080
+ 1840  ps -aux
+ 1841  ps -aux -l
+ 1842  ps -aux -la
+ 1843  ps -aux -a
+ 1844  ps -aux -lh
+ 1845  ps -aux -
+ 1846  ps -aux
+ 1847  sudo lsof -i:8080
+ 1848  sudo lsof -i:80
+ 1849  apachectl -k stop
+ 1850  sudo apachectl -k stop
+ 1851  sudo lsof -i:80
+ 1852  sudo -E flask run --host=0.0.0.0 --port=80
+ 1853  sudo lsof -i:80
+ 1854  sudo lsof -i:
+ 1855  mongo
+ 1856  service mongod status
+ 1857  sudo   /etc/init.d/mongod status
+ 1858  sudo -E flask run --host=0.0.0.0 --port=80
+ 1859  ls
+ 1860  cd git
+ 1861  ls
+ 1862  mv Notes ..
+ 1863  ls
+ 1864  rm ed
+ 1865  ls
+ 1866  rm -rf ed
+ 1867  ls
+ 1868  rm -rf planets-of-the-universe/
+ 1869  ls
+ 1870  cd ..
+ 1871  ls
+ 1872  rm git
+ 1873  rm -rf git
+ 1874  ls
+ 1875  ssh pi@81.213.246.119
+ 1876  ls
+ 1877  sudo apt-get update
+ 1878  cat /etc/apt/sources.list.d/10gen.list
+ 1879  ls
+ 1880  cd ..
+ 1881  ls
+ 1882  cat /etc/apt/sources.list.d/10gen.list
+ 1883  cd etc
+ 1884  ls
+ 1885  cd apt
+ 1886  ls
+ 1887  cd sources.list.d/
+ 1888  ls
+ 1889  cat mongodb.list 
+ 1890  sudo apt-key adv --keyserver keyserver.ubuntu.com --recv 7F0CEB10
+ 1891  sudo apt-get update
+ 1892  sudo apt-get install mongodb-10gen
+ 1893  ls
+ 1894  mv mongodb.list 10gen.list
+ 1895  sudo mv mongodb.list 10gen.list
+ 1896  sudo apt-get update
+ 1897  sudo apt-get install mongodb-10gen
+ 1898  ls
+ 1899  sudo mv 10gen.list mongodb.list
+ 1900  ls
+ 1901  cd ..
+ 1902  cd home
+ 1903  cd ...
+ 1904  cd .
+ 1905  cd ..
+ 1906  cd /
+ 1907  ls
+ 1908  cd home/
+ 1909  ls
+ 1910  cd pi
+ 1911  ls
+ 1912  rm mongod
+ 1913  rm mongod.log
+ 1914  rm screen.log 
+ 1915  ls
+ 1916  sudo apt-get install weavedconnectd
+ 1917  sudo weavedinstaller
+ 1918  ls
+ 1919  sudo weavedinstaller
+ 1920  ls
+ 1921  mongo
+ 1922  mongod status
+ 1923  man mongod
+ 1924  mongod
+ 1925  ls
+ 1926  cd Notes/
+ 1927  ls
+ 1928  cd Node
+ 1929  ls
+ 1930  cd MongoDB_Tutorial/
+ 1931  la
+ 1932  ls
+ 1933  cd samplesite/
+ 1934  ls
+ 1935  mongod status
+ 1936  npm start
+ 1937  ls
+ 1938  cd Data/
+ 1939  ls
+ 1940  cd views
+ 1941  ls
+ 1942  cd ..
+ 1943  ls
+ 1944  cd views/
+ 1945  ls
+ 1946  cd index.jade
+ 1947  cat index.jade 
+ 1948  cd ..
+ 1949  ls
+ 1950  cd mongo
+ 1951  mongo
+ 1952  ls
+ 1953  cd routes/
+ 1954  ls
+ 1955  cat index.js 
+ 1956  nano index.js 
+ 1957  ls
+ 1958  cd ..
+ 1959  npm start
+ 1960  ls
+ 1961  git clone acsariyildiz.github.io
+ 1962  git clone https://github.com/acsariyildiz/acsariyildiz.github.io
+ 1963  ls
+ 1964  cd acsariyildiz.github.io/
+ 1965  ls
+ 1966  cd css
+ 1967  ls
+ 1968  nano common.css
+ 1969  cat common.css
+ 1970  whoami
+ 1971  ls
+ 1972  netconfig
+ 1973  ipconfig
+ 1974  ifconfig
+ 1975  ping 255.255.255.255ping 255.255.255.255
+ 1976  ping 255.255.255.255
+ 1977  ping -b
+ 1978  ping 255.255.255.255 -b
+ 1979  ifconfig | perl -nle 's/dr:(\S+)/print $1/e'
+ 1980  curl -s checkip.dyndns.org | sed -e 's/.*Current IP Address: //' -e 's/<.*$//'
+ 1981  wget -qO- http://ipecho.net/plain ; echo
+ 1982  netstat --tcp --listening --programs --numeric
+ 1983  netstat -lptn
+ 1984  netstat -a | egrep 'Proto|LISTEN'
+ 1985  ip addr
+ 1986  ip route
+ 1987  ip addr
+ 1988  wget -qO- http://ipecho.net/plain ; echo
+ 1989  ping 8.8.8.8
+ 1990  acs
+ 1991  ls
+ 1992  cd home
+ 1993  cd ~
+ 1994  ls
+ 1995  cd Notes/
+ 1996  ls
+ 1997  cd c
+ 1998  ls
+ 1999  gcc conditions-0.c 
+ 2000  ls
+ 2001  nano conditions-0.c 
+ 2002  gcc conditions-0.c 
+ 2003  gcc conditions-0.c -lcs50
+ 2004  ls
+ 2005  ./a.out
+ 2006  ls
+ 2007  mkdir cs50
+ 2008  mv cs50.c cs50
+ 2009  mv cs50.h cs50
+ 2010  ls
+ 2011  adder.c
+ 2012  ls
+ 2013  cc
+ 2014  ls
+ 2015  mkdir src1w
+ 2016  rm src1w/
+ 2017  rm -rf src1w/
+ 2018  wget http://cdn.cs50.net/2015/fall/lectures/1/w/src1w/
+ 2019  ls
+ 2020  git clone https://github.com/benvenker/cs50/tree/master/scratchpad
+ 2021  ls
+ 2022  mkdir src1w
+ 2023  ls
+ 2024  cd src1w/
+ 2025  wget http://cdn.cs50.net/2015/fall/lectures/1/w/src1w/adder.c
+ 2026  ls
+ 2027  gcc adder.c adder -lcs50
+ 2028  gcc adder.c -o adder -lcs50
+ 2029  ./adder 
+ 2030  wget http://cdn.cs50.net/2015/fall/lectures/1/w/src1w/hello-2.c
+ 2031  wget http://cdn.cs50.net/2015/fall/lectures/1/w/src1w/conditions-0.c
+ 2032  wget http://cdn.cs50.net/2015/fall/lectures/1/w/src1w/conditions-1.c
+ 2033  ls
+ 2034  make adder
+ 2035  make
+ 2036  man make
+ 2037  gcc conditions-0.c -o conditions-0.c -lcs50
+ 2038  ./conditions-0.c 
+ 2039  ls
+ 2040  cd ..
+ 2041  ls
+ 2042  rm adder adder.c a.out conditions-0.c  hello hello.c
+ 2043  ls
+ 2044  mv src1w cs50
+ 2045  ls
+ 2046  cd cs50
+ 2047  ls
+ 2048  mkdir cs50_Lib
+ 2049  mv cs50.c cs50.h cs50_Lib
+ 2050  ls
+ 2051  mv cs50_Lib cs50
+ 2052  ls
+ 2053  src1w/
+ 2054  ls
+ 2055  cd src1w/
+ 2056  ls
+ 2057  cat adder
+ 2058  ls
+ 2059  cat adder1.c
+ 2060  cat adder
+ 2061  cat adder.c
+ 2062  ls
+ 2063  cd ..
+ 2064  ls
+ 2065  mv cs50 library
+ 2066  ls
+ 2067  cd src1w/
+ 2068  ls
+ 2069  nano note.md
+ 2070  "gcc conditions-0.c -o conditions-0.c -lcs50" > note.md 
+ 2071  echo "gcc conditions-0.c -o conditions-0.c -lcs50" > note.md 
+ 2072  ls
+ 2073  note.md
+ 2074  nano note.md 
+ 2075  history > history.txt
+ 2076  nano history
+ 2077  history
+ 2078  echo history.txt 
+ 2079  echo history
+ 2080  history | history.txt
+ 2081  history | > history.txt
+ 2082  ls
+ 2083  nano history.txt 
+ 2084  history >> history.txt
+0.10000000000000000555111512313
